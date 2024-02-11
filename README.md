@@ -12,6 +12,3 @@ https://user-images.githubusercontent.com/60168324/166088708-e4cfb288-e1bd-48b1-
 
 View the GitHub Repo Gallery here: https://iVGeek.github.io/github-repo-gallery/
 
-
-
-JavaScript Fundamentals 
