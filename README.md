@@ -6,7 +6,6 @@ The individual repos are displayed in two columns. Clicking on a repo will displ
 </br>
 </br>
 
-https://user-images.githubusercontent.com/60168324/166088708-e4cfb288-e1bd-48b1-81c1-8dcc2c3431c3.mov
 
 ## Launch
 
